@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
 
-    "test": "newman run path/to/collections.json",
-    //"test": "echo \"Error: no test specified\" && exit 1"
+    "test": "newman run collections.json",
+  
   },
   "keywords": [],
   "author": "",
